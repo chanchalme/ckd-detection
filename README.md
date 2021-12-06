@@ -2,15 +2,16 @@
 Detection of chronic kidney disease
 
 
-#Results Summary
+# Results Summary
+Model Summary present in CKD-06-12-21.pdf
 
-#feature py file
+# Feature Creation
+Refer to feature_generator.py containing preprocessing steps
 
+# Train Test Data
+Refer to train.csv and test.csv containing randomly (80:20) sampled patient IDs
 
-# Train test pids
-
-
-# How to run notebook
-
+# How to run Notebook
+Run model_trainer.ipynb containing final feature selection as well as Logistic Regression, Random Forest, SVM classification models
 
 
