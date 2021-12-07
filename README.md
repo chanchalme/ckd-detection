@@ -1,6 +1,8 @@
-# ckd-detection
-Detection of chronic kidney disease
+## ckd-detection
+Detection of Chronic Kidney Disease
 
+## Data Insights
+Refer to data_insights.py containing data viz
 
 # Results Summary
 Model Summary present in CKD-06-12-21.pdf
